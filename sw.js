@@ -1,5 +1,5 @@
 /* Service worker — Gramática Comparada Asiática (offline-first) */
-const CACHE = 'vs-asian-console-v1';
+const CACHE = 'vs-asian-console-v2';
 const SHELL = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png'];
 
 self.addEventListener('install', (e) => {

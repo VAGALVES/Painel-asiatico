@@ -1,0 +1,525 @@
+# Cumprimentos e despedidas
+Olá!|Hello!|你好！|nǐ hǎo|こんにちは。|こんにちは|안녕하세요!
+Bom dia!|Good morning!|早上好！|zǎoshang hǎo|おはようございます。|おはよう ございます|좋은 아침이에요!
+Boa noite! (ao dormir)|Good night! (going to bed)|晚安！|wǎn'ān|おやすみなさい。|おやすみなさい|안녕히 주무세요.
+Boa noite! (ao chegar)|Good evening!|晚上好！|wǎnshang hǎo|こんばんは。|こんばんは|안녕하세요!
+Como vai você?|How are you?|你好吗？|nǐ hǎo ma|お元気ですか。|おげんき ですか|잘 지내세요?
+Estou bem, obrigado.|I'm fine, thank you.|我很好，谢谢。|wǒ hěn hǎo, xièxie|元気です、ありがとう。|げんき です ありがとう|잘 지내요, 감사합니다.
+E você?|And you?|你呢？|nǐ ne|あなた は？|あなた は|당신은요?
+Prazer em conhecê-lo.|Nice to meet you.|很高兴认识你。|hěn gāoxìng rènshi nǐ|はじめまして。|はじめまして|만나서 반갑습니다.
+Há quanto tempo!|Long time no see!|好久不见！|hǎojiǔ bújiàn|お久しぶりです。|おひさしぶり です|오랜만이에요!
+Até logo.|See you later.|回头见。|huítóu jiàn|また あとで。|また あとで|이따 봐요.
+Até amanhã.|See you tomorrow.|明天见。|míngtiān jiàn|また 明日。|また あした|내일 봐요.
+Tchau! (despedida)|Goodbye!|再见！|zàijiàn|さようなら。|さようなら|안녕히 가세요.
+Cuide-se.|Take care.|保重。|bǎozhòng|お気をつけて。|おき を つけて|조심하세요.
+Boa viagem!|Have a good trip!|旅途愉快！|lǚtú yúkuài|良い 旅を！|よい たび を|좋은 여행 되세요!
+Bem-vindo!|Welcome!|欢迎！|huānyíng|ようこそ！|ようこそ|환영합니다!
+Entre, por favor.|Please come in.|请进。|qǐng jìn|どうぞ お入り ください。|どうぞ おはいり ください|들어오세요.
+Fique à vontade.|Make yourself at home.|请随意。|qǐng suíyì|どうぞ おくつろぎ ください。|どうぞ おくつろぎ ください|편하게 계세요.
+Obrigado por vir.|Thanks for coming.|谢谢你来。|xièxie nǐ lái|来て くれて ありがとう。|きて くれて ありがとう|와 주셔서 감사합니다.
+Feliz aniversário!|Happy birthday!|生日快乐！|shēngrì kuàilè|お誕生日 おめでとう。|おたんじょうび おめでとう|생일 축하해요!
+Feliz Ano Novo!|Happy New Year!|新年快乐！|xīnnián kuàilè|あけまして おめでとう ございます。|あけまして おめでとう ございます|새해 복 많이 받으세요!
+# Apresentações e dados pessoais
+Meu nome é Ana.|My name is Ana.|我叫安娜。|wǒ jiào ānnà|私は アナ です。|わたし は アナ です|제 이름은 아나예요.
+Qual é o seu nome?|What is your name?|你叫什么名字？|nǐ jiào shénme míngzi|お名前は 何 ですか。|おなまえ は なん ですか|이름이 뭐예요?
+Eu sou brasileiro.|I am Brazilian.|我是巴西人。|wǒ shì bāxīrén|私は ブラジル人 です。|わたし は ブラジルじん です|저는 브라질 사람이에요.
+De onde você é?|Where are you from?|你是哪里人？|nǐ shì nǎlǐ rén|ご出身は どちら ですか。|ごしゅっしん は どちら ですか|어디에서 오셨어요?
+Eu moro em São Paulo.|I live in São Paulo.|我住在圣保罗。|wǒ zhù zài shèngbǎoluó|私は サンパウロに 住んで います。|わたし は サンパウロ に すんで います|저는 상파울루에 살아요.
+Quantos anos você tem?|How old are you?|你多大了？|nǐ duō dà le|何歳 ですか。|なんさい ですか|몇 살이에요?
+Eu tenho trinta anos.|I am thirty years old.|我三十岁。|wǒ sānshí suì|私は 三十歳 です。|わたし は さんじゅっさい です|저는 서른 살이에요.
+Eu sou empresário.|I am a business owner.|我是企业家。|wǒ shì qǐyèjiā|私は 経営者 です。|わたし は けいえいしゃ です|저는 사업가예요.
+Eu sou estudante.|I am a student.|我是学生。|wǒ shì xuésheng|私は 学生 です。|わたし は がくせい です|저는 학생이에요.
+O que você faz?|What do you do?|你做什么工作？|nǐ zuò shénme gōngzuò|お仕事は 何 ですか。|おしごと は なん ですか|무슨 일을 하세요?
+Eu trabalho numa empresa.|I work at a company.|我在一家公司工作。|wǒ zài yì jiā gōngsī gōngzuò|私は 会社で 働いて います。|わたし は かいしゃ で はたらいて います|저는 회사에서 일해요.
+Eu falo português e inglês.|I speak Portuguese and English.|我会说葡萄牙语和英语。|wǒ huì shuō pútáoyáyǔ hé yīngyǔ|私は ポルトガル語と 英語が 話せます。|わたし は ポルトガルご と えいご が はなせます|저는 포르투갈어와 영어를 해요.
+Estou aprendendo este idioma.|I am learning this language.|我在学这门语言。|wǒ zài xué zhè mén yǔyán|私は この 言語を 勉強して います。|わたし は この げんご を べんきょう して います|저는 이 언어를 공부하고 있어요.
+Este é meu cartão de visita.|This is my business card.|这是我的名片。|zhè shì wǒ de míngpiàn|これは 私の 名刺 です。|これ は わたし の めいし です|이건 제 명함이에요.
+Este é meu amigo.|This is my friend.|这是我的朋友。|zhè shì wǒ de péngyou|こちらは 私の 友達 です。|こちら は わたし の ともだち です|이쪽은 제 친구예요.
+Qual é o seu e-mail?|What is your email?|你的邮箱是什么？|nǐ de yóuxiāng shì shénme|メールアドレスは 何 ですか。|メールアドレス は なん ですか|이메일 주소가 뭐예요?
+Qual é o seu telefone?|What is your phone number?|你的电话号码是多少？|nǐ de diànhuà hàomǎ shì duōshao|電話番号は 何番 ですか。|でんわばんごう は なんばん ですか|전화번호가 어떻게 되세요?
+Eu sou casado.|I am married.|我已经结婚了。|wǒ yǐjīng jiéhūn le|私は 結婚して います。|わたし は けっこん して います|저는 결혼했어요.
+Eu sou solteiro.|I am single.|我是单身。|wǒ shì dānshēn|私は 独身 です。|わたし は どくしん です|저는 미혼이에요.
+Eu tenho dois irmãos.|I have two siblings.|我有两个兄弟姐妹。|wǒ yǒu liǎng gè xiōngdì jiěmèi|私は 兄弟が 二人 います。|わたし は きょうだい が ふたり います|저는 형제가 두 명 있어요.
+# Cortesia e gentileza
+Por favor.|Please.|请。|qǐng|お願い します。|おねがい します|부탁드립니다.
+Obrigado.|Thank you.|谢谢。|xièxie|ありがとう ございます。|ありがとう ございます|감사합니다.
+Muito obrigado.|Thank you very much.|非常感谢。|fēicháng gǎnxiè|どうも ありがとう ございます。|どうも ありがとう ございます|정말 감사합니다.
+De nada.|You're welcome.|不客气。|bú kèqi|どういたしまして。|どう いたしまして|천만에요.
+Desculpe.|I'm sorry.|对不起。|duìbuqǐ|ごめんなさい。|ごめんなさい|미안해요.
+Com licença.|Excuse me.|劳驾。|láojià|すみません。|すみません|실례합니다.
+Desculpe o incômodo.|Sorry to bother you.|不好意思，打扰了。|bù hǎoyìsi, dǎrǎo le|お手数を おかけ して すみません。|おてすう を おかけ して すみません|번거롭게 해서 죄송합니다.
+Não tem problema.|No problem.|没关系。|méi guānxi|大丈夫 です。|だいじょうぶ です|괜찮아요.
+Desculpe o atraso.|Sorry I'm late.|抱歉，我迟到了。|bàoqiàn, wǒ chídào le|遅れて すみません。|おくれて すみません|늦어서 죄송합니다.
+Está tudo bem?|Is everything OK?|一切都好吗？|yíqiè dōu hǎo ma|大丈夫 ですか。|だいじょうぶ ですか|괜찮으세요?
+Agradeço a sua ajuda.|I appreciate your help.|我很感谢你的帮助。|wǒ hěn gǎnxiè nǐ de bāngzhù|お手伝い いただき ありがとう ございます。|おてつだい いただき ありがとう ございます|도와주셔서 감사합니다.
+Foi um prazer ajudar.|Happy to help.|很高兴能帮上忙。|hěn gāoxìng néng bāngshàng máng|お役に 立てて 嬉しい です。|おやく に たてて うれしい です|도움이 되어 기쁩니다.
+Fique tranquilo.|Don't worry.|别担心。|bié dānxīn|心配 しないで ください。|しんぱい しないで ください|걱정하지 마세요.
+Parabéns!|Congratulations!|恭喜！|gōngxǐ|おめでとう ございます。|おめでとう ございます|축하합니다!
+Saúde! (brinde)|Cheers!|干杯！|gānbēi|乾杯！|かんぱい|건배!
+Bom apetite.|Enjoy your meal.|请慢用。|qǐng màn yòng|いただきます。|いただきます|맛있게 드세요.
+Posso entrar?|May I come in?|我可以进来吗？|wǒ kěyǐ jìnlái ma|入っても いい ですか。|はいっても いい ですか|들어가도 돼요?
+Posso sentar aqui?|May I sit here?|我可以坐这里吗？|wǒ kěyǐ zuò zhèlǐ ma|ここに 座っても いい ですか。|ここ に すわっても いい ですか|여기 앉아도 돼요?
+Depois de você.|After you.|您先请。|nín xiān qǐng|お先に どうぞ。|おさき に どうぞ|먼저 하세요.
+Eu entendo.|I understand.|我明白。|wǒ míngbai|分かりました。|わかりました|알겠습니다.
+# Perguntas básicas
+O que é isto?|What is this?|这是什么？|zhè shì shénme|これは 何 ですか。|これ は なん ですか|이게 뭐예요?
+Quem é ele?|Who is he?|他是谁？|tā shì shéi|あの人は 誰 ですか。|あの ひと は だれ ですか|저 사람은 누구예요?
+Onde fica o banheiro?|Where is the restroom?|厕所在哪里？|cèsuǒ zài nǎlǐ|トイレは どこ ですか。|トイレ は どこ ですか|화장실이 어디예요?
+Quando?|When?|什么时候？|shénme shíhou|いつ ですか。|いつ ですか|언제예요?
+Por quê?|Why?|为什么？|wèishénme|どうして ですか。|どうして ですか|왜요?
+Como se diz isto em português?|How do you say this in Portuguese?|这个用葡萄牙语怎么说？|zhège yòng pútáoyáyǔ zěnme shuō|これは ポルトガル語で 何と 言いますか。|これ は ポルトガルご で なんと いいますか|이걸 포르투갈어로 뭐라고 해요?
+Quanto custa?|How much is it?|多少钱？|duōshao qián|いくら ですか。|いくら ですか|얼마예요?
+Quanto tempo leva?|How long does it take?|要多长时间？|yào duō cháng shíjiān|どのくらい かかりますか。|どの くらい かかりますか|얼마나 걸려요?
+Que horas são?|What time is it?|现在几点？|xiànzài jǐ diǎn|今 何時 ですか。|いま なんじ ですか|지금 몇 시예요?
+Qual é a data de hoje?|What's today's date?|今天几号？|jīntiān jǐ hào|今日は 何日 ですか。|きょう は なんにち ですか|오늘 며칠이에요?
+Que dia da semana é hoje?|What day is it today?|今天星期几？|jīntiān xīngqī jǐ|今日は 何曜日 ですか。|きょう は なんようび ですか|오늘 무슨 요일이에요?
+Qual é a diferença?|What's the difference?|有什么区别？|yǒu shénme qūbié|何が 違いますか。|なに が ちがいますか|뭐가 달라요?
+Você pode repetir?|Can you repeat that?|你能再说一遍吗？|nǐ néng zài shuō yí biàn ma|もう 一度 お願い します。|もう いちど おねがい します|다시 한번 말해 주세요.
+Fale mais devagar, por favor.|Please speak more slowly.|请说慢一点。|qǐng shuō màn yìdiǎn|もっと ゆっくり 話して ください。|もっと ゆっくり はなして ください|천천히 말해 주세요.
+O que isso significa?|What does this mean?|这是什么意思？|zhè shì shénme yìsi|これは どういう 意味 ですか。|これ は どういう いみ ですか|이게 무슨 뜻이에요?
+Como se escreve isto?|How do you write this?|这个怎么写？|zhège zěnme xiě|これは どう 書きますか。|これ は どう かきますか|이건 어떻게 써요?
+Você está livre amanhã?|Are you free tomorrow?|你明天有空吗？|nǐ míngtiān yǒu kòng ma|明日は 空いて いますか。|あした は あいて いますか|내일 시간 있어요?
+Qual é o problema?|What's wrong?|怎么了？|zěnme le|どう しましたか。|どう しましたか|무슨 일이에요?
+Alguém aqui fala inglês?|Does anyone here speak English?|这里有人会说英语吗？|zhèlǐ yǒu rén huì shuō yīngyǔ ma|ここに 英語を 話せる 人は いますか。|ここ に えいご を はなせる ひと は いますか|여기 영어 하시는 분 계세요?
+Você tem certeza?|Are you sure?|你确定吗？|nǐ quèdìng ma|本当 ですか。|ほんとう ですか|확실해요?
+# Números, tempo e datas
+Um, dois, três.|One, two, three.|一，二，三。|yī, èr, sān|一、二、三。|いち に さん|하나, 둘, 셋.
+Dez, vinte, cem.|Ten, twenty, one hundred.|十，二十，一百。|shí, èrshí, yìbǎi|十、二十、百。|じゅう にじゅう ひゃく|십, 이십, 백.
+Mil e dez mil.|One thousand and ten thousand.|一千，一万。|yìqiān, yíwàn|千、一万。|せん いちまん|천, 만.
+Hoje.|Today.|今天。|jīntiān|今日。|きょう|오늘.
+Ontem.|Yesterday.|昨天。|zuótiān|昨日。|きのう|어제.
+Amanhã.|Tomorrow.|明天。|míngtiān|明日。|あした|내일.
+Agora.|Now.|现在。|xiànzài|今。|いま|지금.
+Esta semana.|This week.|这个星期。|zhège xīngqī|今週。|こんしゅう|이번 주.
+Semana que vem.|Next week.|下个星期。|xià gè xīngqī|来週。|らいしゅう|다음 주.
+Este mês.|This month.|这个月。|zhège yuè|今月。|こんげつ|이번 달.
+Ano passado.|Last year.|去年。|qùnián|去年。|きょねん|작년.
+São três horas.|It's three o'clock.|现在三点。|xiànzài sān diǎn|三時 です。|さんじ です|세 시예요.
+São oito e meia.|It's eight thirty.|现在八点半。|xiànzài bā diǎn bàn|八時半 です。|はちじはん です|여덟 시 반이에요.
+Às sete da manhã.|At seven in the morning.|早上七点。|zǎoshang qī diǎn|朝 七時に。|あさ しちじ に|아침 일곱 시에.
+Segunda-feira.|Monday.|星期一。|xīngqīyī|月曜日。|げつようび|월요일.
+Sábado e domingo.|Saturday and Sunday.|星期六和星期日。|xīngqīliù hé xīngqīrì|土曜日と 日曜日。|どようび と にちようび|토요일과 일요일.
+Primeiro de janeiro.|January first.|一月一号。|yī yuè yī hào|一月 一日。|いちがつ ついたち|일월 일일.
+Quinze de agosto.|August fifteenth.|八月十五号。|bā yuè shíwǔ hào|八月 十五日。|はちがつ じゅうごにち|팔월 십오 일.
+Todos os dias.|Every day.|每天。|měi tiān|毎日。|まいにち|매일.
+Duas vezes por semana.|Twice a week.|每个星期两次。|měi gè xīngqī liǎng cì|週に 二回。|しゅう に にかい|일주일에 두 번.
+# Família e relacionamentos
+Esta é a minha família.|This is my family.|这是我的家人。|zhè shì wǒ de jiārén|これは 私の 家族 です。|これ は わたし の かぞく です|이쪽은 제 가족이에요.
+Minha mãe é professora.|My mother is a teacher.|我妈妈是老师。|wǒ māma shì lǎoshī|母は 先生 です。|はは は せんせい です|우리 어머니는 선생님이세요.
+Meu pai trabalha muito.|My father works a lot.|我爸爸工作很忙。|wǒ bàba gōngzuò hěn máng|父は とても 忙しい です。|ちち は とても いそがしい です|우리 아버지는 많이 바쁘세요.
+Eu tenho uma irmã mais nova.|I have a younger sister.|我有一个妹妹。|wǒ yǒu yí gè mèimei|私には 妹が 一人 います。|わたし に は いもうと が ひとり います|저는 여동생이 한 명 있어요.
+Eu tenho um irmão mais velho.|I have an older brother.|我有一个哥哥。|wǒ yǒu yí gè gēge|私には 兄が 一人 います。|わたし に は あに が ひとり います|저는 형이 한 명 있어요.
+Meus avós moram no interior.|My grandparents live in the countryside.|我的祖父母住在乡下。|wǒ de zǔfùmǔ zhù zài xiāngxia|祖父母は いなかに 住んで います。|そふぼ は いなか に すんで います|조부모님은 시골에 사세요.
+Você tem filhos?|Do you have children?|你有孩子吗？|nǐ yǒu háizi ma|お子さんは いますか。|おこさん は いますか|자녀가 있으세요?
+Eu tenho uma filha.|I have a daughter.|我有一个女儿。|wǒ yǒu yí gè nǚ'ér|私には 娘が 一人 います。|わたし に は むすめ が ひとり います|저는 딸이 한 명 있어요.
+Meu marido é engenheiro.|My husband is an engineer.|我丈夫是工程师。|wǒ zhàngfu shì gōngchéngshī|夫は エンジニア です。|おっと は エンジニア です|제 남편은 엔지니어예요.
+Minha esposa cozinha muito bem.|My wife cooks very well.|我妻子做饭很好吃。|wǒ qīzi zuòfàn hěn hǎochī|妻は 料理が とても 上手 です。|つま は りょうり が とても じょうず です|제 아내는 요리를 아주 잘해요.
+Somos uma família grande.|We are a big family.|我们是一个大家庭。|wǒmen shì yí gè dà jiātíng|うちは 大家族 です。|うち は おおかぞく です|우리는 대가족이에요.
+Moro com meus pais.|I live with my parents.|我和父母住在一起。|wǒ hé fùmǔ zhù zài yìqǐ|両親と 一緒に 住んで います。|りょうしん と いっしょ に すんで います|부모님과 같이 살아요.
+Ele é meu primo.|He is my cousin.|他是我的堂兄。|tā shì wǒ de tángxiōng|彼は 私の いとこ です。|かれ は わたし の いとこ です|그는 제 사촌이에요.
+Ela é minha namorada.|She is my girlfriend.|她是我的女朋友。|tā shì wǒ de nǚpéngyou|彼女は 私の 恋人 です。|かのじょ は わたし の こいびと です|그녀는 제 여자친구예요.
+Nós vamos nos casar.|We are going to get married.|我们要结婚了。|wǒmen yào jiéhūn le|私たちは 結婚 します。|わたしたち は けっこん します|우리는 결혼할 거예요.
+Meu bebê nasceu ontem.|My baby was born yesterday.|我的宝宝昨天出生了。|wǒ de bǎobao zuótiān chūshēng le|赤ちゃんが 昨日 生まれました。|あかちゃん が きのう うまれました|아기가 어제 태어났어요.
+Eu me dou bem com meus vizinhos.|I get along well with my neighbors.|我和邻居相处得很好。|wǒ hé línjū xiāngchǔ de hěn hǎo|近所の 人と 仲良く して います。|きんじょ の ひと と なかよく して います|저는 이웃과 사이가 좋아요.
+Sinto saudade da minha família.|I miss my family.|我想念我的家人。|wǒ xiǎngniàn wǒ de jiārén|家族に 会いたい です。|かぞく に あいたい です|가족이 보고 싶어요.
+Ela é muito carinhosa.|She is very caring.|她很体贴。|tā hěn tǐtiē|彼女は とても 優しい です。|かのじょ は とても やさしい です|그녀는 정말 다정해요.
+Vamos jantar juntos em família.|Let's have dinner together as a family.|我们全家一起吃晚饭吧。|wǒmen quánjiā yìqǐ chī wǎnfàn ba|家族 みんなで 晩ご飯を 食べましょう。|かぞく みんな で ばんごはん を たべましょう|가족끼리 같이 저녁 먹어요.
+# Comida e restaurante
+Uma mesa para duas pessoas, por favor.|A table for two, please.|请给我们一张两人桌。|qǐng gěi wǒmen yì zhāng liǎng rén zhuō|二名 です。|ふたり です|두 명이에요.
+Posso ver o cardápio?|Can I see the menu?|可以看一下菜单吗？|kěyǐ kàn yíxià càidān ma|メニューを 見せて ください。|メニュー を みせて ください|메뉴판 좀 보여 주세요.
+O que você recomenda?|What do you recommend?|你推荐什么？|nǐ tuījiàn shénme|おすすめは 何 ですか。|おすすめ は なん ですか|추천해 주실 만한 게 뭐예요?
+Eu quero este prato.|I'd like this dish.|我要这个菜。|wǒ yào zhège cài|これを ください。|これ を ください|이거 주세요.
+Eu quero uma água, por favor.|I'd like a water, please.|请给我一杯水。|qǐng gěi wǒ yì bēi shuǐ|お水を ください。|おみず を ください|물 한 잔 주세요.
+Um café com leite, por favor.|A coffee with milk, please.|请来一杯拿铁。|qǐng lái yì bēi nátiě|カフェラテを ください。|カフェラテ を ください|카페라테 한 잔 주세요.
+Eu não como carne.|I don't eat meat.|我不吃肉。|wǒ bù chī ròu|私は 肉を 食べません。|わたし は にく を たべません|저는 고기를 안 먹어요.
+Tenho alergia a amendoim.|I'm allergic to peanuts.|我对花生过敏。|wǒ duì huāshēng guòmǐn|ピーナッツ アレルギー が あります。|ピーナッツ アレルギー が あります|땅콩 알레르기가 있어요.
+Não coloque pimenta, por favor.|No chili, please.|请不要放辣椒。|qǐng bú yào fàng làjiāo|唐辛子は 入れないで ください。|とうがらし は いれないで ください|고추는 넣지 마세요.
+Está delicioso!|It's delicious!|太好吃了！|tài hǎochī le|とても おいしい です！|とても おいしい です|정말 맛있어요!
+Está muito picante.|It's very spicy.|太辣了。|tài là le|とても 辛い です。|とても からい です|너무 매워요.
+Pode trazer mais um pouco?|Could you bring a little more?|可以再来一点吗？|kěyǐ zài lái yìdiǎn ma|もう 少し ください。|もう すこし ください|조금 더 주세요.
+A conta, por favor.|The check, please.|请买单。|qǐng mǎidān|お会計を お願い します。|おかいけい を おねがい します|계산해 주세요.
+Posso pagar com cartão?|Can I pay by card?|可以刷卡吗？|kěyǐ shuākǎ ma|カードで 払えますか。|カード で はらえますか|카드로 계산할 수 있어요?
+Vamos dividir a conta.|Let's split the bill.|我们分开付吧。|wǒmen fēnkāi fù ba|割り勘に しましょう。|わりかん に しましょう|각자 계산해요.
+Eu gosto de comida japonesa.|I like Japanese food.|我喜欢日本菜。|wǒ xǐhuan rìběn cài|私は 日本料理が 好き です。|わたし は にほんりょうり が すき です|저는 일식을 좋아해요.
+Eu tomo café da manhã às sete.|I have breakfast at seven.|我七点吃早饭。|wǒ qī diǎn chī zǎofàn|七時に 朝ご飯を 食べます。|しちじ に あさごはん を たべます|저는 일곱 시에 아침을 먹어요.
+Estou com fome.|I'm hungry.|我饿了。|wǒ è le|お腹が 空きました。|おなか が すきました|배고파요.
+Estou com sede.|I'm thirsty.|我渴了。|wǒ kě le|喉が 渇きました。|のど が かわきました|목말라요.
+Estou satisfeito.|I'm full.|我吃饱了。|wǒ chībǎo le|お腹が いっぱい です。|おなか が いっぱい です|배불러요.
+# Compras e dinheiro
+Quanto custa isto?|How much is this?|这个多少钱？|zhège duōshao qián|これは いくら ですか。|これ は いくら ですか|이거 얼마예요?
+É muito caro.|It's too expensive.|太贵了。|tài guì le|高すぎます。|たかすぎます|너무 비싸요.
+Tem desconto?|Is there a discount?|可以便宜一点吗？|kěyǐ piányi yìdiǎn ma|安く なりますか。|やすく なりますか|깎아 주실 수 있어요?
+Eu só estou olhando.|I'm just looking.|我只是随便看看。|wǒ zhǐshì suíbiàn kànkan|見て いる だけ です。|みて いる だけ です|그냥 구경하는 거예요.
+Posso experimentar?|Can I try it on?|可以试穿吗？|kěyǐ shìchuān ma|試着しても いい ですか。|しちゃく しても いい ですか|입어 봐도 돼요?
+Tem um tamanho maior?|Do you have a bigger size?|有大一点的吗？|yǒu dà yìdiǎn de ma|もっと 大きい サイズは ありますか。|もっと おおきい サイズ は ありますか|더 큰 사이즈 있어요?
+Eu vou levar este.|I'll take this one.|我要这个。|wǒ yào zhège|これに します。|これ に します|이걸로 할게요.
+Onde fica o caixa?|Where is the cashier?|收银台在哪里？|shōuyíntái zài nǎlǐ|レジは どこ ですか。|レジ は どこ ですか|계산대가 어디예요?
+Aceita dinheiro?|Do you accept cash?|收现金吗？|shōu xiànjīn ma|現金は 使えますか。|げんきん は つかえますか|현금 돼요?
+Preciso de uma nota fiscal.|I need a receipt.|我需要发票。|wǒ xūyào fāpiào|領収書が 必要 です。|りょうしゅうしょ が ひつよう です|영수증이 필요해요.
+Tem troco?|Do you have change?|有零钱吗？|yǒu língqián ma|お釣りは ありますか。|おつり は ありますか|거스름돈 있어요?
+Onde posso trocar dinheiro?|Where can I exchange money?|哪里可以换钱？|nǎlǐ kěyǐ huànqián|どこで 両替 できますか。|どこ で りょうがえ できますか|어디에서 환전할 수 있어요?
+Qual é a taxa de câmbio?|What's the exchange rate?|汇率是多少？|huìlǜ shì duōshao|為替レートは いくら ですか。|かわせレート は いくら ですか|환율이 얼마예요?
+Eu quero devolver isto.|I'd like to return this.|我想退货。|wǒ xiǎng tuìhuò|これを 返品 したい です。|これ を へんぴん したい です|이걸 반품하고 싶어요.
+Está com defeito.|It's defective.|这个有问题。|zhège yǒu wèntí|これは 不良品 です。|これ は ふりょうひん です|이게 불량이에요.
+Tem outra cor?|Do you have another color?|有别的颜色吗？|yǒu bié de yánsè ma|他の 色は ありますか。|ほか の いろ は ありますか|다른 색 있어요?
+Eu prefiro pagar à vista.|I prefer to pay in cash.|我想付现金。|wǒ xiǎng fù xiànjīn|現金で 払いたい です。|げんきん で はらいたい です|현금으로 내고 싶어요.
+Posso pagar parcelado?|Can I pay in installments?|可以分期付款吗？|kěyǐ fēnqī fùkuǎn ma|分割払いは できますか。|ぶんかつばらい は できますか|할부로 할 수 있어요?
+Quanto é o frete?|How much is shipping?|运费是多少？|yùnfèi shì duōshao|送料は いくら ですか。|そうりょう は いくら ですか|배송비가 얼마예요?
+Obrigado, vou pensar.|Thanks, I'll think about it.|谢谢，我再考虑一下。|xièxie, wǒ zài kǎolǜ yíxià|ありがとう ございます、考えて みます。|ありがとう ございます かんがえて みます|감사합니다, 생각해 볼게요.
+# Transporte e direções
+Onde fica a estação?|Where is the station?|车站在哪里？|chēzhàn zài nǎlǐ|駅は どこ ですか。|えき は どこ ですか|역이 어디예요?
+Como eu chego ao aeroporto?|How do I get to the airport?|去机场怎么走？|qù jīchǎng zěnme zǒu|空港へ どう 行きますか。|くうこう へ どう いきますか|공항에 어떻게 가요?
+Vire à direita.|Turn right.|向右转。|xiàng yòu zhuǎn|右に 曲がって ください。|みぎ に まがって ください|오른쪽으로 가세요.
+Vire à esquerda.|Turn left.|向左转。|xiàng zuǒ zhuǎn|左に 曲がって ください。|ひだり に まがって ください|왼쪽으로 가세요.
+Siga em frente.|Go straight ahead.|一直走。|yìzhí zǒu|まっすぐ 行って ください。|まっすぐ いって ください|쭉 가세요.
+Fica perto daqui?|Is it near here?|离这里近吗？|lí zhèlǐ jìn ma|ここから 近い ですか。|ここ から ちかい ですか|여기서 가까워요?
+Fica longe?|Is it far?|远吗？|yuǎn ma|遠い ですか。|とおい ですか|멀어요?
+Dá para ir a pé?|Can I walk there?|可以走路去吗？|kěyǐ zǒulù qù ma|歩いて 行けますか。|あるいて いけますか|걸어서 갈 수 있어요?
+Um táxi, por favor.|A taxi, please.|请叫一辆出租车。|qǐng jiào yí liàng chūzūchē|タクシーを 呼んで ください。|タクシー を よんで ください|택시 불러 주세요.
+Para o hotel, por favor.|To the hotel, please.|请送我去酒店。|qǐng sòng wǒ qù jiǔdiàn|ホテルまで お願い します。|ホテル まで おねがい します|호텔로 가 주세요.
+Pode parar aqui?|Can you stop here?|可以在这里停车吗？|kěyǐ zài zhèlǐ tíngchē ma|ここで 止めて ください。|ここ で とめて ください|여기서 세워 주세요.
+Onde fica o ponto de ônibus?|Where is the bus stop?|公交车站在哪里？|gōngjiāochē zhàn zài nǎlǐ|バス停は どこ ですか。|バスてい は どこ ですか|버스 정류장이 어디예요?
+Este ônibus vai para o centro?|Does this bus go downtown?|这辆车去市中心吗？|zhè liàng chē qù shìzhōngxīn ma|この バスは 中心街へ 行きますか。|この バス は ちゅうしんがい へ いきますか|이 버스 시내 가요?
+Uma passagem para Tóquio, por favor.|A ticket to Tokyo, please.|请给我一张去东京的票。|qǐng gěi wǒ yì zhāng qù dōngjīng de piào|東京までの 切符を ください。|とうきょう まで の きっぷ を ください|도쿄 가는 표 한 장 주세요.
+Qual é a próxima estação?|What's the next station?|下一站是哪里？|xià yí zhàn shì nǎlǐ|次の 駅は どこ ですか。|つぎ の えき は どこ ですか|다음 역이 어디예요?
+Eu preciso trocar de linha?|Do I need to change lines?|我需要换乘吗？|wǒ xūyào huànchéng ma|乗り換えは 必要 ですか。|のりかえ は ひつよう ですか|환승해야 해요?
+Qual é a plataforma?|Which platform is it?|在几号站台？|zài jǐ hào zhàntái|何番線 ですか。|なんばんせん ですか|몇 번 승강장이에요?
+O trem está atrasado.|The train is late.|火车晚点了。|huǒchē wǎndiǎn le|電車が 遅れて います。|でんしゃ が おくれて います|기차가 연착됐어요.
+Eu me perdi.|I'm lost.|我迷路了。|wǒ mílù le|道に 迷いました。|みち に まよいました|길을 잃었어요.
+Pode me mostrar no mapa?|Can you show me on the map?|可以在地图上指给我看吗？|kěyǐ zài dìtú shàng zhǐ gěi wǒ kàn ma|地図で 教えて ください。|ちず で おしえて ください|지도로 알려 주세요.
+# Hotel e hospedagem
+Eu tenho uma reserva.|I have a reservation.|我有预订。|wǒ yǒu yùdìng|予約が あります。|よやく が あります|예약했어요.
+Eu quero fazer o check-in.|I'd like to check in.|我想办理入住。|wǒ xiǎng bànlǐ rùzhù|チェックイン を お願い します。|チェックイン を おねがい します|체크인하고 싶어요.
+Eu quero fazer o check-out.|I'd like to check out.|我想办理退房。|wǒ xiǎng bànlǐ tuìfáng|チェックアウト を お願い します。|チェックアウト を おねがい します|체크아웃하고 싶어요.
+Tem quarto livre?|Do you have a vacant room?|有空房吗？|yǒu kōngfáng ma|空いて いる 部屋は ありますか。|あいて いる へや は ありますか|빈 방 있어요?
+Um quarto de casal, por favor.|A double room, please.|请给我一间双人房。|qǐng gěi wǒ yì jiān shuāngrénfáng|ダブルルームを お願い します。|ダブルルーム を おねがい します|더블룸으로 주세요.
+Por quantas noites?|For how many nights?|住几个晚上？|zhù jǐ gè wǎnshang|何泊 ですか。|なんぱく ですか|며칠 묵으세요?
+O café da manhã está incluído?|Is breakfast included?|含早餐吗？|hán zǎocān ma|朝食は 付いて いますか。|ちょうしょく は ついて いますか|아침 식사 포함이에요?
+Qual é a senha do Wi-Fi?|What's the Wi-Fi password?|无线网密码是什么？|wúxiànwǎng mìmǎ shì shénme|Wi-Fi の パスワードは 何 ですか。|ワイファイ の パスワード は なん ですか|와이파이 비밀번호가 뭐예요?
+O ar-condicionado não funciona.|The air conditioner doesn't work.|空调坏了。|kōngtiáo huài le|エアコンが 動きません。|エアコン が うごきません|에어컨이 안 돼요.
+Não tem água quente.|There is no hot water.|没有热水。|méiyǒu rè shuǐ|お湯が 出ません。|おゆ が でません|뜨거운 물이 안 나와요.
+Pode limpar o quarto, por favor?|Could you clean the room, please?|请打扫一下房间。|qǐng dǎsǎo yíxià fángjiān|部屋を 掃除 して ください。|へや を そうじ して ください|방 청소 좀 해 주세요.
+Preciso de mais uma toalha.|I need one more towel.|我需要多一条毛巾。|wǒ xūyào duō yì tiáo máojīn|タオルを もう 一枚 ください。|タオル を もう いちまい ください|수건 한 장 더 주세요.
+A que horas é o check-out?|What time is check-out?|几点退房？|jǐ diǎn tuìfáng|チェックアウトは 何時 ですか。|チェックアウト は なんじ ですか|체크아웃은 몇 시예요?
+Pode guardar minha bagagem?|Can you keep my luggage?|可以寄存行李吗？|kěyǐ jìcún xíngli ma|荷物を 預かって もらえますか。|にもつ を あずかって もらえますか|짐 좀 맡아 주실 수 있어요?
+Perdi a chave do quarto.|I lost my room key.|我把房卡弄丢了。|wǒ bǎ fángkǎ nòngdiū le|部屋の 鍵を なくしました。|へや の かぎ を なくしました|방 키를 잃어버렸어요.
+O quarto é muito barulhento.|The room is very noisy.|房间太吵了。|fángjiān tài chǎo le|部屋が うるさい です。|へや が うるさい です|방이 너무 시끄러워요.
+Posso mudar de quarto?|Can I change rooms?|可以换房间吗？|kěyǐ huàn fángjiān ma|部屋を 変えて もらえますか。|へや を かえて もらえますか|방을 바꿀 수 있어요?
+Chame um táxi para as seis.|Please call a taxi for six o'clock.|请六点帮我叫出租车。|qǐng liù diǎn bāng wǒ jiào chūzūchē|六時に タクシーを 呼んで ください。|ろくじ に タクシー を よんで ください|여섯 시에 택시 불러 주세요.
+Onde fica o elevador?|Where is the elevator?|电梯在哪里？|diàntī zài nǎlǐ|エレベーターは どこ ですか。|エレベーター は どこ ですか|엘리베이터가 어디예요?
+A estadia foi ótima.|The stay was great.|住得很愉快。|zhù de hěn yúkuài|とても 快適 でした。|とても かいてき でした|아주 편안하게 지냈어요.
+# Viagem e aeroporto
+Aqui está o meu passaporte.|Here is my passport.|这是我的护照。|zhè shì wǒ de hùzhào|これが 私の パスポート です。|これ が わたし の パスポート です|여기 제 여권이에요.
+Onde fica o check-in?|Where is the check-in counter?|值机柜台在哪里？|zhíjī guìtái zài nǎlǐ|チェックインカウンターは どこ ですか。|チェックインカウンター は どこ ですか|체크인 카운터가 어디예요?
+Qual é o portão de embarque?|What is the boarding gate?|登机口是几号？|dēngjīkǒu shì jǐ hào|搭乗口は 何番 ですか。|とうじょうぐち は なんばん ですか|탑승구가 몇 번이에요?
+O voo está atrasado?|Is the flight delayed?|航班晚点了吗？|hángbān wǎndiǎn le ma|フライトは 遅れて いますか。|フライト は おくれて いますか|비행기 지연됐어요?
+Eu quero um assento na janela.|I'd like a window seat.|我想要靠窗的座位。|wǒ xiǎng yào kàochuāng de zuòwèi|窓側の 席を お願い します。|まどがわ の せき を おねがい します|창가 자리로 주세요.
+Eu tenho uma mala para despachar.|I have one bag to check in.|我有一件行李要托运。|wǒ yǒu yí jiàn xíngli yào tuōyùn|預ける 荷物が 一つ あります。|あずける にもつ が ひとつ あります|부칠 짐이 하나 있어요.
+Minha mala não chegou.|My luggage didn't arrive.|我的行李没到。|wǒ de xíngli méi dào|私の 荷物が 届いて いません。|わたし の にもつ が とどいて いません|제 짐이 안 왔어요.
+Onde fica a esteira de bagagens?|Where is the baggage claim?|行李领取处在哪里？|xíngli lǐngqǔchù zài nǎlǐ|手荷物 受取所は どこ ですか。|てにもつ うけとりじょ は どこ ですか|수하물 찾는 곳이 어디예요?
+Eu não tenho nada a declarar.|I have nothing to declare.|我没有需要申报的东西。|wǒ méiyǒu xūyào shēnbào de dōngxi|申告する ものは ありません。|しんこく する もの は ありません|신고할 물건이 없습니다.
+Qual é o motivo da viagem?|What is the purpose of your trip?|您来这里的目的是什么？|nín lái zhèlǐ de mùdì shì shénme|渡航の 目的は 何 ですか。|とこう の もくてき は なん ですか|방문 목적이 뭐예요?
+Eu vim a turismo.|I'm here as a tourist.|我是来旅游的。|wǒ shì lái lǚyóu de|観光で 来ました。|かんこう で きました|관광으로 왔어요.
+Eu vim a trabalho.|I'm here on business.|我是来出差的。|wǒ shì lái chūchāi de|仕事で 来ました。|しごと で きました|출장으로 왔어요.
+Vou ficar uma semana.|I'll stay for a week.|我要待一个星期。|wǒ yào dāi yí gè xīngqī|一週間 滞在 します。|いっしゅうかん たいざい します|일주일 동안 있을 거예요.
+Onde posso comprar um chip de celular?|Where can I buy a SIM card?|哪里可以买手机卡？|nǎlǐ kěyǐ mǎi shǒujī kǎ|どこで SIMカードを 買えますか。|どこ で シムカード を かえますか|어디서 유심을 살 수 있어요?
+Eu quero alugar um carro.|I want to rent a car.|我想租一辆车。|wǒ xiǎng zū yí liàng chē|レンタカーを 借りたい です。|レンタカー を かりたい です|렌터카를 빌리고 싶어요.
+Qual é a melhor época para visitar?|When is the best time to visit?|什么时候来最好？|shénme shíhou lái zuì hǎo|いつ 来るのが 一番 いい ですか。|いつ くる の が いちばん いい ですか|언제 오는 게 제일 좋아요?
+Você pode tirar uma foto minha?|Can you take a photo of me?|你可以帮我拍张照吗？|nǐ kěyǐ bāng wǒ pāi zhāng zhào ma|写真を 撮って もらえますか。|しゃしん を とって もらえますか|사진 좀 찍어 주실래요?
+Onde fica o posto de informações turísticas?|Where is the tourist information center?|旅游咨询处在哪里？|lǚyóu zīxúnchù zài nǎlǐ|観光案内所は どこ ですか。|かんこうあんないじょ は どこ ですか|관광 안내소가 어디예요?
+Quanto custa o ingresso?|How much is the ticket?|门票多少钱？|ménpiào duōshao qián|入場料は いくら ですか。|にゅうじょうりょう は いくら ですか|입장료가 얼마예요?
+Foi uma viagem incrível.|It was an amazing trip.|这是一次很棒的旅行。|zhè shì yí cì hěn bàng de lǚxíng|素晴らしい 旅行 でした。|すばらしい りょこう でした|정말 멋진 여행이었어요.
+# Saúde e emergência
+Eu não me sinto bem.|I don't feel well.|我不舒服。|wǒ bù shūfu|気分が 悪い です。|きぶん が わるい です|몸이 안 좋아요.
+Estou com dor de cabeça.|I have a headache.|我头疼。|wǒ tóuténg|頭が 痛い です。|あたま が いたい です|머리가 아파요.
+Estou com dor de barriga.|I have a stomachache.|我肚子疼。|wǒ dùzi téng|お腹が 痛い です。|おなか が いたい です|배가 아파요.
+Estou com febre.|I have a fever.|我发烧了。|wǒ fāshāo le|熱が あります。|ねつ が あります|열이 나요.
+Estou com tosse e dor de garganta.|I have a cough and a sore throat.|我咳嗽，喉咙疼。|wǒ késou, hóulong téng|咳が 出て、喉が 痛い です。|せき が でて のど が いたい です|기침이 나고 목이 아파요.
+Preciso de um médico.|I need a doctor.|我需要看医生。|wǒ xūyào kàn yīshēng|医者に 診て もらいたい です。|いしゃ に みて もらいたい です|의사를 만나야 해요.
+Chame uma ambulância!|Call an ambulance!|请叫救护车！|qǐng jiào jiùhùchē|救急車を 呼んで ください！|きゅうきゅうしゃ を よんで ください|구급차를 불러 주세요!
+Onde fica o hospital mais próximo?|Where is the nearest hospital?|最近的医院在哪里？|zuìjìn de yīyuàn zài nǎlǐ|一番 近い 病院は どこ ですか。|いちばん ちかい びょういん は どこ ですか|가장 가까운 병원이 어디예요?
+Onde fica a farmácia?|Where is the pharmacy?|药店在哪里？|yàodiàn zài nǎlǐ|薬局は どこ ですか。|やっきょく は どこ ですか|약국이 어디예요?
+Eu preciso de um remédio para dor.|I need a painkiller.|我需要止痛药。|wǒ xūyào zhǐtòngyào|痛み止めが ほしい です。|いたみどめ が ほしい です|진통제가 필요해요.
+Eu sou alérgico a penicilina.|I'm allergic to penicillin.|我对青霉素过敏。|wǒ duì qīngméisù guòmǐn|ペニシリンに アレルギーが あります。|ペニシリン に アレルギー が あります|저는 페니실린 알레르기가 있어요.
+Eu tenho pressão alta.|I have high blood pressure.|我有高血压。|wǒ yǒu gāoxuèyā|高血圧 です。|こうけつあつ です|고혈압이 있어요.
+Tomei o remédio de manhã.|I took the medicine this morning.|我早上吃了药。|wǒ zǎoshang chī le yào|朝 薬を 飲みました。|あさ くすり を のみました|아침에 약을 먹었어요.
+Quantas vezes por dia devo tomar?|How many times a day should I take it?|一天要吃几次？|yì tiān yào chī jǐ cì|一日 何回 飲みますか。|いちにち なんかい のみますか|하루에 몇 번 먹어요?
+Machuquei o pé.|I hurt my foot.|我的脚受伤了。|wǒ de jiǎo shòushāng le|足を けがしました。|あし を けがしました|발을 다쳤어요.
+Socorro!|Help!|救命！|jiùmìng|助けて！|たすけて|도와주세요!
+Chame a polícia!|Call the police!|请报警！|qǐng bàojǐng|警察を 呼んで ください！|けいさつ を よんで ください|경찰을 불러 주세요!
+Fui roubado.|I was robbed.|我被抢了。|wǒ bèi qiǎng le|盗まれました。|ぬすまれました|도둑맞았어요.
+Perdi meu celular.|I lost my phone.|我的手机丢了。|wǒ de shǒujī diū le|携帯を なくしました。|けいたい を なくしました|휴대폰을 잃어버렸어요.
+Preciso de um intérprete.|I need an interpreter.|我需要翻译。|wǒ xūyào fānyì|通訳が 必要 です。|つうやく が ひつよう です|통역사가 필요해요.
+# Clima e natureza
+Como está o tempo hoje?|How's the weather today?|今天天气怎么样？|jīntiān tiānqì zěnmeyàng|今日の 天気は どう ですか。|きょう の てんき は どう ですか|오늘 날씨 어때요?
+Está fazendo sol.|It's sunny.|天气晴朗。|tiānqì qínglǎng|晴れて います。|はれて います|날씨가 맑아요.
+Está chovendo.|It's raining.|下雨了。|xià yǔ le|雨が 降って います。|あめ が ふって います|비가 와요.
+Vai chover amanhã?|Will it rain tomorrow?|明天会下雨吗？|míngtiān huì xià yǔ ma|明日は 雨が 降りますか。|あした は あめ が ふりますか|내일 비 와요?
+Está muito frio.|It's very cold.|天气很冷。|tiānqì hěn lěng|とても 寒い です。|とても さむい です|많이 추워요.
+Está muito quente.|It's very hot.|天气很热。|tiānqì hěn rè|とても 暑い です。|とても あつい です|많이 더워요.
+Está nublado.|It's cloudy.|天气阴。|tiānqì yīn|曇って います。|くもって います|흐려요.
+Está ventando muito.|It's very windy.|风很大。|fēng hěn dà|風が 強い です。|かぜ が つよい です|바람이 많이 불어요.
+Vai nevar hoje à noite.|It will snow tonight.|今晚会下雪。|jīnwǎn huì xià xuě|今夜は 雪が 降ります。|こんや は ゆき が ふります|오늘 밤에 눈이 올 거예요.
+Qual é a temperatura?|What's the temperature?|现在多少度？|xiànzài duōshao dù|気温は 何度 ですか。|きおん は なんど ですか|기온이 몇 도예요?
+Leve um guarda-chuva.|Take an umbrella.|带上雨伞吧。|dàishang yǔsǎn ba|傘を 持って 行って ください。|かさ を もって いって ください|우산 가져가세요.
+A primavera é a minha estação favorita.|Spring is my favorite season.|春天是我最喜欢的季节。|chūntiān shì wǒ zuì xǐhuan de jìjié|春が 一番 好きな 季節 です。|はる が いちばん すきな きせつ です|봄이 제일 좋아하는 계절이에요.
+No inverno faz muito frio aqui.|It gets very cold here in winter.|这里冬天很冷。|zhèlǐ dōngtiān hěn lěng|ここの 冬は とても 寒い です。|ここ の ふゆ は とても さむい です|여기는 겨울에 많이 추워요.
+As flores de cerejeira estão lindas.|The cherry blossoms are beautiful.|樱花很美。|yīnghuā hěn měi|桜が きれい です。|さくら が きれい です|벚꽃이 예뻐요.
+Vamos à praia no fim de semana.|Let's go to the beach this weekend.|周末我们去海边吧。|zhōumò wǒmen qù hǎibiān ba|週末に 海へ 行きましょう。|しゅうまつ に うみ へ いきましょう|주말에 바다에 가요.
+A montanha tem uma vista linda.|The mountain has a beautiful view.|这座山的风景很美。|zhè zuò shān de fēngjǐng hěn měi|山の 景色が とても きれい です。|やま の けしき が とても きれい です|산 경치가 정말 아름다워요.
+O ar aqui é muito puro.|The air here is very clean.|这里的空气很清新。|zhèlǐ de kōngqì hěn qīngxīn|ここの 空気は きれい です。|ここ の くうき は きれい です|여기 공기가 아주 맑아요.
+Vai ter tempestade hoje.|There will be a storm today.|今天有暴风雨。|jīntiān yǒu bàofēngyǔ|今日は 嵐が 来ます。|きょう は あらし が きます|오늘 폭풍우가 올 거예요.
+O céu está estrelado.|The sky is full of stars.|天空繁星点点。|tiānkōng fánxīng diǎndiǎn|空に 星が たくさん 見えます。|そら に ほし が たくさん みえます|하늘에 별이 가득해요.
+Eu amo o cheiro da chuva.|I love the smell of rain.|我喜欢雨的味道。|wǒ xǐhuan yǔ de wèidào|雨の 匂いが 好き です。|あめ の におい が すき です|저는 비 냄새를 좋아해요.
+# Casa e rotina diária
+Eu acordo às seis da manhã.|I wake up at six in the morning.|我早上六点起床。|wǒ zǎoshang liù diǎn qǐchuáng|朝 六時に 起きます。|あさ ろくじ に おきます|저는 아침 여섯 시에 일어나요.
+Eu escovo os dentes.|I brush my teeth.|我刷牙。|wǒ shuāyá|歯を 磨きます。|は を みがきます|양치를 해요.
+Eu tomo banho de manhã.|I take a shower in the morning.|我早上洗澡。|wǒ zǎoshang xǐzǎo|朝 シャワーを 浴びます。|あさ シャワー を あびます|아침에 샤워해요.
+Eu saio de casa às oito.|I leave home at eight.|我八点出门。|wǒ bā diǎn chūmén|八時に 家を 出ます。|はちじ に いえ を でます|여덟 시에 집을 나서요.
+Eu vou para o trabalho de metrô.|I go to work by subway.|我坐地铁上班。|wǒ zuò dìtiě shàngbān|地下鉄で 通勤 します。|ちかてつ で つうきん します|지하철로 출근해요.
+Eu almoço ao meio-dia.|I have lunch at noon.|我中午吃午饭。|wǒ zhōngwǔ chī wǔfàn|昼 十二時に 昼ご飯を 食べます。|ひる じゅうにじ に ひるごはん を たべます|정오에 점심을 먹어요.
+Eu volto para casa às seis.|I get home at six.|我六点回家。|wǒ liù diǎn huíjiā|六時に 家に 帰ります。|ろくじ に いえ に かえります|여섯 시에 집에 돌아와요.
+Eu cozinho o jantar.|I cook dinner.|我做晚饭。|wǒ zuò wǎnfàn|晩ご飯を 作ります。|ばんごはん を つくります|저녁을 만들어요.
+Eu lavo a louça depois de comer.|I wash the dishes after eating.|吃完饭我洗碗。|chīwán fàn wǒ xǐ wǎn|食べた あと 皿を 洗います。|たべた あと さら を あらいます|밥 먹고 나서 설거지를 해요.
+Eu limpo a casa no sábado.|I clean the house on Saturdays.|我星期六打扫房子。|wǒ xīngqīliù dǎsǎo fángzi|土曜日に 家を 掃除 します。|どようび に いえ を そうじ します|토요일에 집을 청소해요.
+Eu lavo a roupa à noite.|I do laundry at night.|我晚上洗衣服。|wǒ wǎnshang xǐ yīfu|夜に 洗濯 します。|よる に せんたく します|밤에 빨래를 해요.
+Eu assisto televisão antes de dormir.|I watch TV before bed.|我睡觉前看电视。|wǒ shuìjiào qián kàn diànshì|寝る 前に テレビを 見ます。|ねる まえ に テレビ を みます|자기 전에 TV를 봐요.
+Eu leio um livro na cama.|I read a book in bed.|我在床上看书。|wǒ zài chuáng shang kàn shū|ベッドで 本を 読みます。|ベッド で ほん を よみます|침대에서 책을 읽어요.
+Eu durmo às onze horas.|I go to sleep at eleven.|我十一点睡觉。|wǒ shíyī diǎn shuìjiào|十一時に 寝ます。|じゅういちじ に ねます|열한 시에 자요.
+Apague a luz, por favor.|Please turn off the light.|请关灯。|qǐng guān dēng|電気を 消して ください。|でんき を けして ください|불 좀 꺼 주세요.
+Abra a janela, por favor.|Please open the window.|请打开窗户。|qǐng dǎkāi chuānghu|窓を 開けて ください。|まど を あけて ください|창문 좀 열어 주세요.
+Onde está o controle remoto?|Where is the remote control?|遥控器在哪里？|yáokòngqì zài nǎlǐ|リモコンは どこ ですか。|リモコン は どこ ですか|리모컨 어디 있어요?
+Minha casa é pequena, mas aconchegante.|My home is small but cozy.|我家不大，但是很温馨。|wǒ jiā bú dà, dànshì hěn wēnxīn|私の 家は 小さい ですが、居心地が いい です。|わたし の いえ は ちいさい です が いごこち が いい です|우리 집은 작지만 아늑해요.
+O que tem para o jantar?|What's for dinner?|晚饭吃什么？|wǎnfàn chī shénme|晩ご飯は 何 ですか。|ばんごはん は なん ですか|저녁 뭐예요?
+Hoje eu fico em casa.|I'm staying home today.|今天我待在家里。|jīntiān wǒ dāi zài jiālǐ|今日は 家に います。|きょう は いえ に います|오늘은 집에 있을 거예요.
+# Trabalho e negócios
+Eu tenho uma reunião às três.|I have a meeting at three.|我三点有个会议。|wǒ sān diǎn yǒu gè huìyì|三時に 会議が あります。|さんじ に かいぎ が あります|세 시에 회의가 있어요.
+Vamos começar a reunião.|Let's start the meeting.|我们开始开会吧。|wǒmen kāishǐ kāihuì ba|会議を 始めましょう。|かいぎ を はじめましょう|회의를 시작하겠습니다.
+Posso enviar o relatório amanhã?|Can I send the report tomorrow?|我可以明天发报告吗？|wǒ kěyǐ míngtiān fā bàogào ma|報告書は 明日 送って も いい ですか。|ほうこくしょ は あした おくって も いい ですか|보고서는 내일 보내도 될까요?
+Qual é o prazo?|What is the deadline?|截止日期是什么时候？|jiézhǐ rìqī shì shénme shíhou|締め切りは いつ ですか。|しめきり は いつ ですか|마감이 언제예요?
+Preciso de mais tempo.|I need more time.|我需要更多时间。|wǒ xūyào gèng duō shíjiān|もう 少し 時間が 必要 です。|もう すこし じかん が ひつよう です|시간이 더 필요해요.
+Vou lhe enviar um e-mail.|I'll send you an email.|我会给你发邮件。|wǒ huì gěi nǐ fā yóujiàn|メールを お送り します。|メール を おおくり します|이메일 보내 드리겠습니다.
+Podemos marcar uma reunião?|Can we schedule a meeting?|我们可以约个会议吗？|wǒmen kěyǐ yuē gè huìyì ma|打ち合わせを お願い できますか。|うちあわせ を おねがい できますか|회의 일정을 잡을 수 있을까요?
+Qual é o orçamento do projeto?|What is the project budget?|项目预算是多少？|xiàngmù yùsuàn shì duōshao|プロジェクトの 予算は いくら ですか。|プロジェクト の よさん は いくら ですか|프로젝트 예산이 얼마예요?
+Vamos fechar o contrato.|Let's close the deal.|我们签合同吧。|wǒmen qiān hétong ba|契約を 結びましょう。|けいやく を むすびましょう|계약을 체결합시다.
+Precisamos aumentar as vendas.|We need to increase sales.|我们需要提高销售额。|wǒmen xūyào tígāo xiāoshòu'é|売上を 伸ばす 必要が あります。|うりあげ を のばす ひつよう が あります|매출을 늘려야 해요.
+Estamos no prazo.|We are on schedule.|我们按计划进行。|wǒmen àn jìhuà jìnxíng|予定通り 進んで います。|よてい どおり すすんで います|일정대로 진행 중이에요.
+Esta é a nossa proposta.|This is our proposal.|这是我们的方案。|zhè shì wǒmen de fāng'àn|これが 私たちの 提案 です。|これ が わたしたち の ていあん です|이것이 저희 제안입니다.
+Obrigado pela sua atenção.|Thank you for your attention.|感谢您的关注。|gǎnxiè nín de guānzhù|ご清聴 ありがとう ございました。|ごせいちょう ありがとう ございました|경청해 주셔서 감사합니다.
+Preciso da sua aprovação.|I need your approval.|我需要您的批准。|wǒ xūyào nín de pīzhǔn|承認を お願い します。|しょうにん を おねがい します|승인을 부탁드립니다.
+Quem é o responsável por isso?|Who is in charge of this?|这件事由谁负责？|zhè jiàn shì yóu shéi fùzé|これは 誰が 担当 ですか。|これ は だれ が たんとう ですか|이건 누가 담당이에요?
+Vou trabalhar até tarde hoje.|I'll work late today.|今天我要加班。|jīntiān wǒ yào jiābān|今日は 残業 します。|きょう は ざんぎょう します|오늘 야근할 거예요.
+Estou de férias na próxima semana.|I'm on vacation next week.|我下个星期休假。|wǒ xià gè xīngqī xiūjià|来週は 休暇です。|らいしゅう は きゅうか です|다음 주에 휴가예요.
+Qual é o seu salário?|What is your salary?|你的薪水是多少？|nǐ de xīnshuǐ shì duōshao|給料は いくら ですか。|きゅうりょう は いくら ですか|월급이 얼마예요?
+Eu quero abrir uma empresa.|I want to start a company.|我想开一家公司。|wǒ xiǎng kāi yì jiā gōngsī|会社を 作りたい です。|かいしゃ を つくりたい です|회사를 차리고 싶어요.
+Vamos manter contato.|Let's keep in touch.|我们保持联系。|wǒmen bǎochí liánxì|連絡を 取り合いましょう。|れんらく を とりあいましょう|계속 연락해요.
+# Estudos e idiomas
+Eu estudo todos os dias.|I study every day.|我每天学习。|wǒ měitiān xuéxí|私は 毎日 勉強 します。|わたし は まいにち べんきょう します|저는 매일 공부해요.
+Eu quero melhorar meu vocabulário.|I want to improve my vocabulary.|我想提高我的词汇量。|wǒ xiǎng tígāo wǒ de cíhuìliàng|語彙力を 上げたい です。|ごいりょく を あげたい です|어휘력을 늘리고 싶어요.
+Estou aprendendo a ler e a escrever.|I'm learning to read and write.|我在学习读写。|wǒ zài xuéxí dúxiě|読み書きを 勉強 して います。|よみかき を べんきょう して います|읽기와 쓰기를 배우고 있어요.
+A gramática é difícil, mas interessante.|Grammar is hard but interesting.|语法很难，但是很有意思。|yǔfǎ hěn nán, dànshì hěn yǒu yìsi|文法は 難しい ですが、おもしろい です。|ぶんぽう は むずかしい です が おもしろい です|문법은 어렵지만 재미있어요.
+Eu entendo um pouco.|I understand a little.|我听得懂一点。|wǒ tīng de dǒng yìdiǎn|少し 分かります。|すこし わかります|조금 알아들어요.
+Eu não entendi.|I didn't understand.|我没听懂。|wǒ méi tīngdǒng|分かりませんでした。|わかりません でした|이해 못 했어요.
+Meu sotaque é ruim?|Is my accent bad?|我的口音不好吗？|wǒ de kǒuyīn bù hǎo ma|私の 発音は 変 ですか。|わたし の はつおん は へん ですか|제 발음이 이상해요?
+Como se pronuncia esta palavra?|How do you pronounce this word?|这个词怎么读？|zhège cí zěnme dú|この 言葉は どう 読みますか。|この ことば は どう よみますか|이 단어는 어떻게 읽어요?
+Eu preciso de mais prática.|I need more practice.|我需要多练习。|wǒ xūyào duō liànxí|もっと 練習が 必要 です。|もっと れんしゅう が ひつよう です|연습이 더 필요해요.
+Vamos praticar conversação.|Let's practice conversation.|我们练习会话吧。|wǒmen liànxí huìhuà ba|会話の 練習を しましょう。|かいわ の れんしゅう を しましょう|회화 연습을 해요.
+Você pode me corrigir?|Can you correct me?|你可以纠正我吗？|nǐ kěyǐ jiūzhèng wǒ ma|間違いを 直して ください。|まちがい を なおして ください|틀린 거 고쳐 주세요.
+Qual é o seu livro favorito?|What is your favorite book?|你最喜欢的书是什么？|nǐ zuì xǐhuan de shū shì shénme|好きな 本は 何 ですか。|すきな ほん は なん ですか|제일 좋아하는 책이 뭐예요?
+Eu tenho prova amanhã.|I have an exam tomorrow.|我明天有考试。|wǒ míngtiān yǒu kǎoshì|明日 試験が あります。|あした しけん が あります|내일 시험이 있어요.
+Eu passei na prova.|I passed the exam.|我考试通过了。|wǒ kǎoshì tōngguò le|試験に 合格 しました。|しけん に ごうかく しました|시험에 합격했어요.
+Estou estudando na universidade.|I'm studying at university.|我在大学读书。|wǒ zài dàxué dúshū|大学で 勉強 して います。|だいがく で べんきょう して います|대학교에서 공부하고 있어요.
+Qual é a sua matéria favorita?|What is your favorite subject?|你最喜欢哪门课？|nǐ zuì xǐhuan nǎ mén kè|好きな 科目は 何 ですか。|すきな かもく は なん ですか|제일 좋아하는 과목이 뭐예요?
+O professor explica muito bem.|The teacher explains very well.|老师讲得很清楚。|lǎoshī jiǎng de hěn qīngchu|先生の 説明は とても 分かりやすい です。|せんせい の せつめい は とても わかりやすい です|선생님이 설명을 아주 잘해 주세요.
+Posso fazer uma pergunta?|May I ask a question?|我可以问一个问题吗？|wǒ kěyǐ wèn yí gè wèntí ma|質問しても いい ですか。|しつもん しても いい ですか|질문해도 돼요?
+Dever de casa é muito.|There is a lot of homework.|作业很多。|zuòyè hěn duō|宿題が たくさん あります。|しゅくだい が たくさん あります|숙제가 많아요.
+Aprender idiomas abre portas.|Learning languages opens doors.|学习语言可以打开新的大门。|xuéxí yǔyán kěyǐ dǎkāi xīn de dàmén|言語を 学ぶと 新しい 世界が 開けます。|げんご を まなぶ と あたらしい せかい が ひらけます|언어를 배우면 새로운 문이 열려요.
+# Tecnologia e internet
+Eu preciso de acesso à internet.|I need internet access.|我需要上网。|wǒ xūyào shàngwǎng|インターネットに つなぎたい です。|インターネット に つなぎたい です|인터넷을 써야 해요.
+A internet está lenta.|The internet is slow.|网速很慢。|wǎngsù hěn màn|ネットが 遅い です。|ネット が おそい です|인터넷이 느려요.
+Meu celular está sem bateria.|My phone is out of battery.|我的手机没电了。|wǒ de shǒujī méi diàn le|携帯の 電池が 切れました。|けいたい の でんち が きれました|휴대폰 배터리가 없어요.
+Você tem um carregador?|Do you have a charger?|你有充电器吗？|nǐ yǒu chōngdiànqì ma|充電器を 持って いますか。|じゅうでんき を もって いますか|충전기 있어요?
+Posso usar seu computador?|Can I use your computer?|我可以用你的电脑吗？|wǒ kěyǐ yòng nǐ de diànnǎo ma|パソコンを 借りても いい ですか。|パソコン を かりても いい ですか|컴퓨터 좀 써도 돼요?
+Eu baixei o aplicativo.|I downloaded the app.|我下载了这个应用。|wǒ xiàzài le zhège yìngyòng|アプリを ダウンロード しました。|アプリ を ダウンロード しました|앱을 다운로드했어요.
+Preciso atualizar o sistema.|I need to update the system.|我需要更新系统。|wǒ xūyào gēngxīn xìtǒng|システムを 更新 する 必要が あります。|システム を こうしん する ひつよう が あります|시스템을 업데이트해야 해요.
+Esqueci minha senha.|I forgot my password.|我忘记密码了。|wǒ wàngjì mìmǎ le|パスワードを 忘れました。|パスワード を わすれました|비밀번호를 잊어버렸어요.
+Pode me enviar o arquivo?|Can you send me the file?|你可以把文件发给我吗？|nǐ kěyǐ bǎ wénjiàn fā gěi wǒ ma|ファイルを 送って もらえますか。|ファイル を おくって もらえますか|파일 좀 보내 주실래요?
+Vou salvar o documento.|I'll save the document.|我来保存文档。|wǒ lái bǎocún wéndàng|書類を 保存 します。|しょるい を ほぞん します|문서를 저장할게요.
+O sistema travou.|The system crashed.|系统崩溃了。|xìtǒng bēngkuì le|システムが 止まりました。|システム が とまりました|시스템이 멈췄어요.
+Reinicie o computador.|Restart the computer.|请重启电脑。|qǐng chóngqǐ diànnǎo|パソコンを 再起動 して ください。|パソコン を さいきどう して ください|컴퓨터를 다시 시작하세요.
+Eu uso inteligência artificial no trabalho.|I use artificial intelligence at work.|我在工作中使用人工智能。|wǒ zài gōngzuò zhōng shǐyòng réngōng zhìnéng|仕事で 人工知能を 使って います。|しごと で じんこうちのう を つかって います|저는 업무에 인공지능을 써요.
+Você pode compartilhar a tela?|Can you share your screen?|你可以共享屏幕吗？|nǐ kěyǐ gòngxiǎng píngmù ma|画面を 共有 して もらえますか。|がめん を きょうゆう して もらえますか|화면 공유해 주실 수 있어요?
+Vou fazer um backup dos dados.|I'll back up the data.|我来备份数据。|wǒ lái bèifèn shùjù|データを バックアップ します。|データ を バックアップ します|데이터를 백업할게요.
+Há um erro no código.|There is an error in the code.|代码里有一个错误。|dàimǎ lǐ yǒu yí gè cuòwù|コードに エラーが あります。|コード に エラー が あります|코드에 오류가 있어요.
+Onde posso imprimir isto?|Where can I print this?|哪里可以打印这个？|nǎlǐ kěyǐ dǎyìn zhège|どこで 印刷 できますか。|どこ で いんさつ できますか|어디서 이걸 인쇄할 수 있어요?
+Eu prefiro pagar pelo aplicativo.|I prefer to pay through the app.|我想用应用付款。|wǒ xiǎng yòng yìngyòng fùkuǎn|アプリで 払いたい です。|アプリ で はらいたい です|앱으로 결제하고 싶어요.
+Poste uma foto nas redes sociais.|Post a photo on social media.|在社交媒体上发一张照片。|zài shèjiāo méitǐ shàng fā yì zhāng zhàopiàn|SNSに 写真を 投稿 して ください。|エスエヌエス に しゃしん を とうこう して ください|SNS에 사진을 올려요.
+A tecnologia muda muito rápido.|Technology changes very fast.|科技变化得很快。|kējì biànhuà de hěn kuài|技術は とても 速く 変わります。|ぎじゅつ は とても はやく かわります|기술은 아주 빠르게 변해요.
+# Telefone e comunicação
+Alô?|Hello? (on the phone)|喂？|wéi|もしもし。|もしもし|여보세요?
+Quem está falando?|Who is speaking?|请问哪位？|qǐngwèn nǎ wèi|どちら さま ですか。|どちら さま ですか|누구세요?
+Posso falar com o senhor Kim?|May I speak with Mr. Kim?|请问金先生在吗？|qǐngwèn jīn xiānsheng zài ma|キムさんを お願い します。|キムさん を おねがい します|김 선생님 계세요?
+Ele não está no momento.|He is not here right now.|他现在不在。|tā xiànzài bú zài|ただ今 席を 外して おります。|ただいま せき を はずして おります|지금 자리에 안 계세요.
+Pode deixar um recado?|Can I leave a message?|可以留言吗？|kěyǐ liúyán ma|伝言を お願い できますか。|でんごん を おねがい できますか|메시지 남겨도 될까요?
+Eu ligo de volta mais tarde.|I'll call back later.|我晚点再打给你。|wǒ wǎndiǎn zài dǎ gěi nǐ|後で かけ直します。|あとで かけなおします|나중에 다시 전화할게요.
+A ligação está ruim.|The connection is bad.|信号不好。|xìnhào bù hǎo|電波が 悪い です。|でんぱ が わるい です|연결이 안 좋아요.
+Não consigo ouvir você.|I can't hear you.|我听不见你。|wǒ tīng bu jiàn nǐ|声が 聞こえません。|こえ が きこえません|안 들려요.
+Pode falar mais alto?|Can you speak louder?|你可以大声一点吗？|nǐ kěyǐ dàshēng yìdiǎn ma|もっと 大きい 声で お願い します。|もっと おおきい こえ で おねがい します|좀 더 크게 말해 주실래요?
+Vou te mandar uma mensagem.|I'll text you.|我给你发信息。|wǒ gěi nǐ fā xìnxī|メッセージを 送ります。|メッセージ を おくります|문자 보낼게요.
+Você viu minha mensagem?|Did you see my message?|你看到我的信息了吗？|nǐ kàndào wǒ de xìnxī le ma|メッセージを 見ました か。|メッセージ を みました か|제 메시지 봤어요?
+Vamos fazer uma videochamada.|Let's do a video call.|我们视频通话吧。|wǒmen shìpín tōnghuà ba|ビデオ通話を しましょう。|ビデオつうわ を しましょう|영상 통화해요.
+Qual é o seu ID no app de mensagens?|What's your messaging app ID?|你的微信是什么？|nǐ de wēixìn shì shénme|ラインの IDを 教えて ください。|ライン の アイディー を おしえて ください|카카오톡 아이디가 뭐예요?
+Desculpe, número errado.|Sorry, wrong number.|对不起，打错了。|duìbuqǐ, dǎ cuò le|すみません、間違えました。|すみません まちがえました|죄송합니다, 잘못 걸었어요.
+Estou ocupado agora.|I'm busy right now.|我现在很忙。|wǒ xiànzài hěn máng|今 忙しい です。|いま いそがしい です|지금 바빠요.
+Posso te ligar amanhã?|Can I call you tomorrow?|我明天可以打电话给你吗？|wǒ míngtiān kěyǐ dǎ diànhuà gěi nǐ ma|明日 電話しても いい ですか。|あした でんわ しても いい ですか|내일 전화해도 돼요?
+Já recebi o seu e-mail.|I already received your email.|我已经收到你的邮件了。|wǒ yǐjīng shōudào nǐ de yóujiàn le|メールを 受け取りました。|メール を うけとりました|이메일 받았어요.
+Responda assim que puder.|Reply as soon as you can.|请尽快回复。|qǐng jǐnkuài huífù|できるだけ 早く 返信 して ください。|できるだけ はやく へんしん して ください|가능한 한 빨리 답장 주세요.
+Obrigado pela resposta.|Thanks for your reply.|谢谢你的回复。|xièxie nǐ de huífù|ご返信 ありがとう ございます。|ごへんしん ありがとう ございます|답장 감사합니다.
+Até a próxima ligação.|Until our next call.|下次通话再聊。|xià cì tōnghuà zài liáo|また 次の お電話で。|また つぎ の おでんわ で|다음 통화 때 또 얘기해요.
+# Emoções e opiniões
+Estou muito feliz.|I'm very happy.|我很开心。|wǒ hěn kāixīn|とても うれしい です。|とても うれしい です|정말 기뻐요.
+Estou triste.|I'm sad.|我很难过。|wǒ hěn nánguò|悲しい です。|かなしい です|슬퍼요.
+Estou cansado.|I'm tired.|我累了。|wǒ lèi le|疲れました。|つかれました|피곤해요.
+Estou nervoso.|I'm nervous.|我很紧张。|wǒ hěn jǐnzhāng|緊張 して います。|きんちょう して います|긴장돼요.
+Estou com raiva.|I'm angry.|我很生气。|wǒ hěn shēngqì|怒って います。|おこって います|화가 나요.
+Estou surpreso!|I'm surprised!|我很惊讶！|wǒ hěn jīngyà|びっくり しました！|びっくり しました|깜짝 놀랐어요!
+Estou entediado.|I'm bored.|我很无聊。|wǒ hěn wúliáo|退屈 です。|たいくつ です|심심해요.
+Estou com saudade de você.|I miss you.|我想你。|wǒ xiǎng nǐ|あなた に 会いたい です。|あなた に あいたい です|보고 싶어요.
+Eu estou orgulhoso de você.|I'm proud of you.|我为你感到骄傲。|wǒ wèi nǐ gǎndào jiāo'ào|あなた を 誇りに 思います。|あなた を ほこり に おもいます|당신이 자랑스러워요.
+Eu acho que é uma boa ideia.|I think it's a good idea.|我觉得这是个好主意。|wǒ juéde zhè shì gè hǎo zhǔyi|いい 考えだ と 思います。|いい かんがえ だ と おもいます|좋은 생각인 것 같아요.
+Na minha opinião, está certo.|In my opinion, it's correct.|我认为这是对的。|wǒ rènwéi zhè shì duì de|私の 意見では、正しい です。|わたし の いけん で は ただしい です|제 생각에는 맞아요.
+Que pena!|What a pity!|真可惜！|zhēn kěxī|残念 です！|ざんねん です|아쉽네요!
+Que bom!|How nice!|太好了！|tài hǎo le|よかった！|よかった|잘됐네요!
+Não se preocupe, vai dar certo.|Don't worry, it will work out.|别担心，会好起来的。|bié dānxīn, huì hǎo qǐlái de|心配 しないで、きっと うまく いきます。|しんぱい しないで きっと うまく いきます|걱정 마세요, 잘될 거예요.
+Eu estou com medo.|I'm scared.|我很害怕。|wǒ hěn hàipà|怖い です。|こわい です|무서워요.
+Eu estou aliviado.|I'm relieved.|我松了一口气。|wǒ sōng le yì kǒu qì|ほっと しました。|ほっと しました|안심했어요.
+Isso me deixa muito animado.|This makes me really excited.|这让我很兴奋。|zhè ràng wǒ hěn xīngfèn|これ は わくわく します。|これ は わくわく します|이거 정말 설레요.
+Eu me sinto sozinho às vezes.|I feel lonely sometimes.|我有时候觉得孤单。|wǒ yǒushíhou juéde gūdān|時々 寂しく なります。|ときどき さびしく なります|가끔 외로워요.
+Estou grato por tudo.|I'm grateful for everything.|我很感激这一切。|wǒ hěn gǎnjī zhè yíqiè|すべてに 感謝 して います。|すべて に かんしゃ して います|모든 것에 감사해요.
+Estou com vergonha.|I'm embarrassed.|我很不好意思。|wǒ hěn bù hǎoyìsi|恥ずかしい です。|はずかしい です|부끄러워요.
+# Gostos, hobbies e lazer
+Eu gosto de música.|I like music.|我喜欢音乐。|wǒ xǐhuan yīnyuè|私は 音楽が 好き です。|わたし は おんがく が すき です|저는 음악을 좋아해요.
+Qual é o seu hobby?|What is your hobby?|你的爱好是什么？|nǐ de àihào shì shénme|ご趣味は 何 ですか。|ごしゅみ は なん ですか|취미가 뭐예요?
+Eu gosto de ler livros.|I like reading books.|我喜欢看书。|wǒ xǐhuan kàn shū|読書が 好き です。|どくしょ が すき です|저는 책 읽는 걸 좋아해요.
+Eu gosto de cozinhar.|I like cooking.|我喜欢做饭。|wǒ xǐhuan zuòfàn|料理が 好き です。|りょうり が すき です|저는 요리하는 걸 좋아해요.
+Eu jogo futebol nos fins de semana.|I play soccer on weekends.|我周末踢足球。|wǒ zhōumò tī zúqiú|週末に サッカーを します。|しゅうまつ に サッカー を します|주말에 축구를 해요.
+Eu vou à academia três vezes por semana.|I go to the gym three times a week.|我每周去三次健身房。|wǒ měi zhōu qù sān cì jiànshēnfáng|週に 三回 ジムに 行きます。|しゅう に さんかい ジム に いきます|일주일에 세 번 헬스장에 가요.
+Eu gosto de assistir a filmes.|I like watching movies.|我喜欢看电影。|wǒ xǐhuan kàn diànyǐng|映画を 見るのが 好き です。|えいが を みる の が すき です|저는 영화 보는 걸 좋아해요.
+Vamos ao cinema?|Shall we go to the movies?|我们去看电影好吗？|wǒmen qù kàn diànyǐng hǎo ma|映画に 行きませんか。|えいが に いきません か|영화 보러 갈래요?
+Eu gosto de viajar.|I like traveling.|我喜欢旅行。|wǒ xǐhuan lǚxíng|旅行が 好き です。|りょこう が すき です|저는 여행을 좋아해요.
+Eu toco violão.|I play the guitar.|我弹吉他。|wǒ tán jítā|ギターを 弾きます。|ギター を ひきます|저는 기타를 쳐요.
+Eu gosto de cantar no karaokê.|I like singing karaoke.|我喜欢唱卡拉OK。|wǒ xǐhuan chàng kǎlā OK|カラオケで 歌うのが 好き です。|カラオケ で うたう の が すき です|저는 노래방에서 노래하는 걸 좋아해요.
+Eu gosto de caminhar no parque.|I like walking in the park.|我喜欢在公园散步。|wǒ xǐhuan zài gōngyuán sànbù|公園を 散歩するのが 好き です。|こうえん を さんぽ する の が すき です|공원에서 산책하는 걸 좋아해요.
+Eu adoro tirar fotos.|I love taking photos.|我喜欢拍照。|wǒ xǐhuan pāizhào|写真を 撮るのが 好き です。|しゃしん を とる の が すき です|사진 찍는 걸 좋아해요.
+Eu gosto de jogar videogame.|I like playing video games.|我喜欢玩电子游戏。|wǒ xǐhuan wán diànzǐ yóuxì|ゲームを するのが 好き です。|ゲーム を する の が すき です|게임하는 걸 좋아해요.
+Eu gosto mais de chá do que de café.|I prefer tea to coffee.|比起咖啡，我更喜欢茶。|bǐqǐ kāfēi, wǒ gèng xǐhuan chá|コーヒー より お茶の 方が 好き です。|コーヒー より おちゃ の ほう が すき です|커피보다 차를 더 좋아해요.
+Eu não gosto de acordar cedo.|I don't like waking up early.|我不喜欢早起。|wǒ bù xǐhuan zǎoqǐ|早起きは 好き では ありません。|はやおき は すき で は ありません|일찍 일어나는 걸 안 좋아해요.
+O que você faz no tempo livre?|What do you do in your free time?|你空闲时间做什么？|nǐ kòngxián shíjiān zuò shénme|暇な 時は 何を しますか。|ひま な とき は なに を しますか|시간 날 때 뭐 해요?
+Vamos fazer um piquenique.|Let's have a picnic.|我们去野餐吧。|wǒmen qù yěcān ba|ピクニックに 行きましょう。|ピクニック に いきましょう|소풍 가요.
+Eu fiz um curso de culinária.|I took a cooking class.|我上了一个烹饪课。|wǒ shàng le yí gè pēngrèn kè|料理教室に 通いました。|りょうりきょうしつ に かよいました|요리 수업을 들었어요.
+Hoje eu quero relaxar.|Today I want to relax.|今天我想放松一下。|jīntiān wǒ xiǎng fàngsōng yíxià|今日は ゆっくり したい です。|きょう は ゆっくり したい です|오늘은 좀 쉬고 싶어요.
+# Pedidos e ajuda
+Pode me ajudar?|Can you help me?|你可以帮我吗？|nǐ kěyǐ bāng wǒ ma|手伝って もらえますか。|てつだって もらえますか|도와주실 수 있어요?
+Preciso de ajuda.|I need help.|我需要帮助。|wǒ xūyào bāngzhù|助けが 必要 です。|たすけ が ひつよう です|도움이 필요해요.
+Pode me dar um minuto?|Can you give me a minute?|请稍等一下。|qǐng shāo děng yíxià|少々 お待ち ください。|しょうしょう おまち ください|잠시만 기다려 주세요.
+Pode me mostrar como se faz?|Can you show me how to do it?|你可以教我怎么做吗？|nǐ kěyǐ jiāo wǒ zěnme zuò ma|やり方を 教えて もらえますか。|やりかた を おしえて もらえますか|어떻게 하는지 알려 주실래요?
+Pode me emprestar uma caneta?|Can I borrow a pen?|可以借我一支笔吗？|kěyǐ jiè wǒ yì zhī bǐ ma|ペンを 貸して もらえますか。|ペン を かして もらえますか|펜 좀 빌려주실래요?
+Pode abrir a porta, por favor?|Could you open the door, please?|请帮我开一下门。|qǐng bāng wǒ kāi yíxià mén|ドアを 開けて もらえますか。|ドア を あけて もらえますか|문 좀 열어 주실래요?
+Pode carregar isto para mim?|Could you carry this for me?|可以帮我拿一下这个吗？|kěyǐ bāng wǒ ná yíxià zhège ma|これを 持って もらえますか。|これ を もって もらえますか|이거 좀 들어 주실래요?
+Pode escrever isso para mim?|Could you write that down for me?|可以帮我写下来吗？|kěyǐ bāng wǒ xiě xiàlái ma|書いて もらえますか。|かいて もらえますか|적어 주실 수 있어요?
+Pode traduzir isto?|Can you translate this?|你可以翻译这个吗？|nǐ kěyǐ fānyì zhège ma|これを 翻訳 して もらえますか。|これ を ほんやく して もらえますか|이거 번역해 주실래요?
+Pode me levar até lá?|Could you take me there?|你可以带我去那里吗？|nǐ kěyǐ dài wǒ qù nàlǐ ma|そこまで 連れて 行って もらえますか。|そこ まで つれて いって もらえますか|거기까지 데려다 주실래요?
+Pode me acordar às sete?|Could you wake me at seven?|可以七点叫我起床吗？|kěyǐ qī diǎn jiào wǒ qǐchuáng ma|七時に 起こして もらえますか。|しちじ に おこして もらえますか|일곱 시에 깨워 주실래요?
+Eu não sei fazer isso.|I don't know how to do this.|我不会做这个。|wǒ bú huì zuò zhège|これの やり方が 分かりません。|これ の やりかた が わかりません|이거 할 줄 몰라요.
+Eu posso fazer isso sozinho.|I can do it by myself.|我自己可以做。|wǒ zìjǐ kěyǐ zuò|自分で できます。|じぶん で できます|혼자 할 수 있어요.
+Posso ajudar você?|May I help you?|需要我帮忙吗？|xūyào wǒ bāngmáng ma|お手伝い しましょうか。|おてつだい しましょう か|도와드릴까요?
+Deixe que eu faço.|Let me do it.|让我来吧。|ràng wǒ lái ba|私が やります。|わたし が やります|제가 할게요.
+Pode esperar um pouco?|Could you wait a moment?|可以等一会儿吗？|kěyǐ děng yíhuìr ma|ちょっと 待って もらえますか。|ちょっと まって もらえますか|잠깐만 기다려 주실래요?
+Preciso de uma informação.|I need some information.|我想咨询一下。|wǒ xiǎng zīxún yíxià|ちょっと 教えて ください。|ちょっと おしえて ください|좀 물어볼 게 있어요.
+Por favor, me avise quando chegar.|Please let me know when you arrive.|到了请告诉我。|dàole qǐng gàosu wǒ|着いたら 教えて ください。|ついたら おしえて ください|도착하면 알려 주세요.
+Obrigado pela paciência.|Thank you for your patience.|谢谢你的耐心。|xièxie nǐ de nàixīn|お待たせ して すみません。|おまたせ して すみません|기다려 주셔서 감사합니다.
+Quanto eu devo?|How much do I owe you?|我该付多少钱？|wǒ gāi fù duōshao qián|いくら 払えば いい ですか。|いくら はらえば いい ですか|얼마를 내면 돼요?
+# Concordar, discordar e esclarecer
+Eu concordo.|I agree.|我同意。|wǒ tóngyì|賛成 です。|さんせい です|동의해요.
+Eu não concordo.|I disagree.|我不同意。|wǒ bù tóngyì|賛成 できません。|さんせい できません|동의하지 않아요.
+Você tem razão.|You're right.|你说得对。|nǐ shuō de duì|おっしゃる 通り です。|おっしゃる とおり です|맞는 말씀이에요.
+Talvez.|Maybe.|也许吧。|yěxǔ ba|たぶん。|たぶん|아마도요.
+Claro!|Of course!|当然！|dāngrán|もちろん！|もちろん|물론이죠!
+Com certeza.|Definitely.|一定。|yídìng|間違い ありません。|まちがい ありません|틀림없어요.
+Não tenho certeza.|I'm not sure.|我不确定。|wǒ bú quèdìng|よく 分かりません。|よく わかりません|잘 모르겠어요.
+Depende.|It depends.|看情况。|kàn qíngkuàng|場合に よります。|ばあい に よります|상황에 따라 달라요.
+Não é isso que eu quis dizer.|That's not what I meant.|我不是这个意思。|wǒ bú shì zhège yìsi|そう いう 意味 では ありません。|そう いう いみ で は ありません|그런 뜻이 아니에요.
+Posso explicar de outro jeito?|May I explain it another way?|我可以换个说法吗？|wǒ kěyǐ huàn gè shuōfǎ ma|言い方を 変えても いい ですか。|いいかた を かえても いい ですか|다르게 설명해도 될까요?
+Entendi mal?|Did I misunderstand?|我是不是误会了？|wǒ shì bu shì wùhuì le|誤解 して いますか。|ごかい して いますか|제가 오해했나요?
+Ótima pergunta.|Great question.|问得好。|wèn de hǎo|いい 質問 です。|いい しつもん です|좋은 질문이에요.
+Isso faz sentido.|That makes sense.|这很有道理。|zhè hěn yǒu dàolǐ|なるほど。|なるほど|말이 되네요.
+Vamos ver os fatos.|Let's look at the facts.|我们来看一下事实。|wǒmen lái kàn yíxià shìshí|事実を 確認 しましょう。|じじつ を かくにん しましょう|사실을 확인해 봐요.
+Vamos fazer um acordo.|Let's make a deal.|我们达成一致吧。|wǒmen dáchéng yízhì ba|合意 しましょう。|ごうい しましょう|합의합시다.
+Eu preciso pensar mais.|I need to think more.|我需要再想想。|wǒ xūyào zài xiǎngxiang|もう 少し 考えたい です。|もう すこし かんがえたい です|좀 더 생각해야 해요.
+Quem tem razão?|Who is right?|谁是对的？|shéi shì duì de|どちらが 正しい ですか。|どちら が ただしい ですか|누가 맞아요?
+Vamos tentar de novo.|Let's try again.|我们再试一次。|wǒmen zài shì yí cì|もう 一度 やって みましょう。|もう いちど やって みましょう|다시 해 봐요.
+Eu mudei de ideia.|I changed my mind.|我改变主意了。|wǒ gǎibiàn zhǔyi le|考えが 変わりました。|かんがえ が かわりました|생각이 바뀌었어요.
+Por exemplo?|For example?|比如说？|bǐrú shuō|例えば？|たとえば|예를 들면요?
+# Encontros e vida social
+Vamos tomar um café?|Shall we have a coffee?|我们去喝杯咖啡吧？|wǒmen qù hē bēi kāfēi ba|コーヒーでも 飲みませんか。|コーヒー でも のみません か|커피 한잔할래요?
+Você quer jantar comigo?|Would you like to have dinner with me?|你愿意和我一起吃晚饭吗？|nǐ yuànyì hé wǒ yìqǐ chī wǎnfàn ma|一緒に 晩ご飯を 食べませんか。|いっしょ に ばんごはん を たべません か|저랑 같이 저녁 먹을래요?
+Onde nos encontramos?|Where shall we meet?|我们在哪里见面？|wǒmen zài nǎlǐ jiànmiàn|どこで 会いましょう か。|どこ で あいましょう か|어디서 만날까요?
+Nos encontramos às sete.|Let's meet at seven.|我们七点见。|wǒmen qī diǎn jiàn|七時に 会いましょう。|しちじ に あいましょう|일곱 시에 만나요.
+Estou chegando.|I'm on my way.|我马上到。|wǒ mǎshàng dào|もうすぐ 着きます。|もうすぐ つきます|곧 도착해요.
+Desculpe, vou me atrasar um pouco.|Sorry, I'll be a little late.|不好意思，我会晚一点到。|bù hǎoyìsi, wǒ huì wǎn yìdiǎn dào|すみません、少し 遅れます。|すみません すこし おくれます|죄송해요, 조금 늦을 것 같아요.
+Eu convido você para a festa.|I invite you to the party.|我邀请你参加聚会。|wǒ yāoqǐng nǐ cānjiā jùhuì|パーティーに ご招待 します。|パーティー に ごしょうたい します|파티에 초대할게요.
+Obrigado pelo convite.|Thanks for the invitation.|谢谢你的邀请。|xièxie nǐ de yāoqǐng|お招き ありがとう ございます。|おまねき ありがとう ございます|초대해 주셔서 감사합니다.
+Infelizmente não posso ir.|Unfortunately I can't go.|很遗憾，我去不了。|hěn yíhàn, wǒ qù bu liǎo|残念ながら 行けません。|ざんねん ながら いけません|아쉽지만 못 가요.
+Eu me diverti muito.|I had a lot of fun.|我玩得很开心。|wǒ wán de hěn kāixīn|とても 楽しかった です。|とても たのしかった です|정말 즐거웠어요.
+Vamos nos ver de novo.|Let's see each other again.|我们再见面吧。|wǒmen zài jiànmiàn ba|また 会いましょう。|また あいましょう|또 만나요.
+Posso te apresentar ao meu amigo?|May I introduce you to my friend?|我给你介绍一下我的朋友吧。|wǒ gěi nǐ jièshào yíxià wǒ de péngyou ba|友達を 紹介 します。|ともだち を しょうかい します|제 친구를 소개해 드릴게요.
+Você mora perto daqui?|Do you live near here?|你住在这附近吗？|nǐ zhù zài zhè fùjìn ma|この 近くに 住んで いますか。|この ちかく に すんで いますか|이 근처에 살아요?
+Quer vir comigo?|Do you want to come with me?|你想和我一起去吗？|nǐ xiǎng hé wǒ yìqǐ qù ma|一緒に 行きませんか。|いっしょ に いきません か|같이 갈래요?
+Eu pago esta rodada.|This round is on me.|这一轮我请客。|zhè yì lún wǒ qǐngkè|ここは 私が おごります。|ここ は わたし が おごります|이번엔 제가 낼게요.
+Foi ótimo conversar com você.|It was great talking with you.|和你聊天很愉快。|hé nǐ liáotiān hěn yúkuài|お話 できて 楽しかった です。|おはなし できて たのしかった です|이야기 나눠서 즐거웠어요.
+Você é muito simpático.|You are very friendly.|你人很好。|nǐ rén hěn hǎo|とても 親切な 方 ですね。|とても しんせつ な かた ですね|정말 친절하세요.
+Vamos tirar uma foto juntos.|Let's take a photo together.|我们一起拍张照吧。|wǒmen yìqǐ pāi zhāng zhào ba|一緒に 写真を 撮りましょう。|いっしょ に しゃしん を とりましょう|같이 사진 찍어요.
+Boa sorte!|Good luck!|祝你好运！|zhù nǐ hǎoyùn|頑張って ください！|がんばって ください|행운을 빌어요!
+Mande lembranças à sua família.|Give my regards to your family.|请代我向你的家人问好。|qǐng dài wǒ xiàng nǐ de jiārén wènhǎo|ご家族に よろしく お伝え ください。|ごかぞく に よろしく おつたえ ください|가족분들께 안부 전해 주세요.
+# Cidade e lugares
+Onde fica o banco?|Where is the bank?|银行在哪里？|yínháng zài nǎlǐ|銀行は どこ ですか。|ぎんこう は どこ ですか|은행이 어디예요?
+Onde fica o correio?|Where is the post office?|邮局在哪里？|yóujú zài nǎlǐ|郵便局は どこ ですか。|ゆうびんきょく は どこ ですか|우체국이 어디예요?
+Onde fica o supermercado?|Where is the supermarket?|超市在哪里？|chāoshì zài nǎlǐ|スーパーは どこ ですか。|スーパー は どこ ですか|슈퍼마켓이 어디예요?
+Onde fica a biblioteca?|Where is the library?|图书馆在哪里？|túshūguǎn zài nǎlǐ|図書館は どこ ですか。|としょかん は どこ ですか|도서관이 어디예요?
+Onde fica o museu?|Where is the museum?|博物馆在哪里？|bówùguǎn zài nǎlǐ|博物館は どこ ですか。|はくぶつかん は どこ ですか|박물관이 어디예요?
+Onde fica o parque?|Where is the park?|公园在哪里？|gōngyuán zài nǎlǐ|公園は どこ ですか。|こうえん は どこ ですか|공원이 어디예요?
+Onde fica a embaixada do Brasil?|Where is the Brazilian embassy?|巴西大使馆在哪里？|bāxī dàshǐguǎn zài nǎlǐ|ブラジル大使館は どこ ですか。|ブラジルたいしかん は どこ ですか|브라질 대사관이 어디예요?
+Há um bom restaurante por aqui?|Is there a good restaurant around here?|这附近有好的餐厅吗？|zhè fùjìn yǒu hǎo de cāntīng ma|この 近くに いい レストランは ありますか。|この ちかく に いい レストラン は ありますか|이 근처에 맛집 있어요?
+Este bairro é seguro?|Is this neighborhood safe?|这个地区安全吗？|zhège dìqū ānquán ma|この 地域は 安全 ですか。|この ちいき は あんぜん ですか|이 동네 안전해요?
+A cidade é muito grande.|The city is very big.|这座城市很大。|zhè zuò chéngshì hěn dà|この 町は とても 大きい です。|この まち は とても おおきい です|이 도시는 아주 커요.
+O centro fica a dez minutos daqui.|Downtown is ten minutes from here.|市中心离这里十分钟。|shìzhōngxīn lí zhèlǐ shí fēnzhōng|中心街は ここから 十分 です。|ちゅうしんがい は ここ から じゅっぷん です|시내는 여기서 십 분 거리예요.
+Que prédio é aquele?|What building is that?|那是什么建筑？|nà shì shénme jiànzhù|あの 建物は 何 ですか。|あの たてもの は なん ですか|저 건물은 뭐예요?
+Eu moro num apartamento.|I live in an apartment.|我住在公寓里。|wǒ zhù zài gōngyù lǐ|私は アパートに 住んで います。|わたし は アパート に すんで います|저는 아파트에 살아요.
+O aluguel é caro nesta região.|Rent is expensive in this area.|这一带房租很贵。|zhè yídài fángzū hěn guì|この 辺りは 家賃が 高い です。|この あたり は やちん が たかい です|이 지역은 월세가 비싸요.
+A loja de conveniência está aberta?|Is the convenience store open?|便利店开着吗？|biànlìdiàn kāizhe ma|コンビニは 開いて いますか。|コンビニ は あいて いますか|편의점 열었어요?
+A que horas o mercado abre?|What time does the market open?|市场几点开门？|shìchǎng jǐ diǎn kāimén|市場は 何時に 開きますか。|いちば は なんじ に あきますか|시장은 몇 시에 열어요?
+A que horas fecha?|What time does it close?|几点关门？|jǐ diǎn guānmén|何時に 閉まりますか。|なんじ に しまりますか|몇 시에 닫아요?
+Está fechado hoje.|It's closed today.|今天休息。|jīntiān xiūxi|今日は 休み です。|きょう は やすみ です|오늘은 쉬어요.
+É um lugar muito tranquilo.|It's a very quiet place.|这里非常安静。|zhèlǐ fēicháng ānjìng|とても 静かな 所 です。|とても しずかな ところ です|아주 조용한 곳이에요.
+Eu amo esta cidade.|I love this city.|我爱这座城市。|wǒ ài zhè zuò chéngshì|この 町が 大好き です。|この まち が だいすき です|저는 이 도시를 정말 좋아해요.
+# Frases-chave de conversação
+Eu não falo muito bem.|I don't speak very well.|我说得不太好。|wǒ shuō de bú tài hǎo|あまり 上手 では ありません。|あまり じょうず で は ありません|말을 잘 못해요.
+Eu estou começando a aprender.|I'm just starting to learn.|我刚开始学。|wǒ gāng kāishǐ xué|勉強を 始めたばかり です。|べんきょう を はじめた ばかり です|이제 막 배우기 시작했어요.
+Pode falar em inglês?|Can you speak English?|你会说英语吗？|nǐ huì shuō yīngyǔ ma|英語は 話せますか。|えいご は はなせますか|영어 할 수 있어요?
+Um momento, por favor.|One moment, please.|请稍等。|qǐng shāo děng|ちょっと 待って ください。|ちょっと まって ください|잠시만요.
+Eu não sei.|I don't know.|我不知道。|wǒ bù zhīdào|分かりません。|わかりません|몰라요.
+Eu sei.|I know.|我知道。|wǒ zhīdào|知って います。|しって います|알아요.
+Sim.|Yes.|是。|shì|はい。|はい|네.
+Não.|No.|不是。|bú shì|いいえ。|いいえ|아니요.
+Tudo bem.|All right.|好的。|hǎo de|いい です よ。|いい です よ|좋아요.
+Eu quero isto.|I want this.|我要这个。|wǒ yào zhège|これが ほしい です。|これ が ほしい です|이걸 원해요.
+Eu não quero isto.|I don't want this.|我不要这个。|wǒ bú yào zhège|これは いりません。|これ は いりません|이건 필요 없어요.
+Eu gosto muito disto.|I like this a lot.|我很喜欢这个。|wǒ hěn xǐhuan zhège|これが とても 好き です。|これ が とても すき です|이거 정말 좋아해요.
+Eu preciso ir agora.|I have to go now.|我现在得走了。|wǒ xiànzài děi zǒu le|もう 行かなければ なりません。|もう いかなければ なりません|이제 가 봐야 해요.
+Vamos!|Let's go!|走吧！|zǒu ba|行きましょう！|いきましょう|가요!
+Espere!|Wait!|等一下！|děng yíxià|待って！|まって|잠깐만요!
+Cuidado!|Careful!|小心！|xiǎoxīn|気を つけて！|き を つけて|조심하세요!
+Rápido, por favor.|Quickly, please.|请快一点。|qǐng kuài yìdiǎn|急いで ください。|いそいで ください|빨리 해 주세요.
+Sem pressa.|No rush.|不着急。|bù zháojí|急がなくて いい です。|いそがなくて いい です|천천히 하세요.
+Eu volto já.|I'll be right back.|我马上回来。|wǒ mǎshàng huílái|すぐ 戻ります。|すぐ もどります|금방 올게요.
+Muito bem!|Very good!|很好！|hěn hǎo|よく できました！|よく できました|아주 좋아요!
