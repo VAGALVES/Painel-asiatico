@@ -73,6 +73,17 @@
           "sizes": "192x192"
         }
       ]
+    },
+    {
+      "name": "Laboratório de Pinyin",
+      "short_name": "Pinyin",
+      "url": "./index.html#pinyin",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ],
   "screenshots": [
